@@ -115,6 +115,9 @@ public class MainBook {
             }
         }
        // tim kiem gia theo tim kiem nhi phan
+        System.out.println("nhap gia sach ban muon mua");
+        int gia= scanner.nextInt();
+
 
 
     }
